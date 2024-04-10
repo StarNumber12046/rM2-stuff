@@ -18,7 +18,7 @@ Custom implementation for [reMarkable 2 framebuffer](https://github.com/ddvk/rem
 The differences are:
  * Lower level hooking, removing the Qt dependence.
  * Uses UNIX sockets instead of message queues. Makes it easier to implement synchronized updates.
- * Supports less but newer xochitl versions
+ * Supports less but newer xochitl versions (2.15, 3.3, 2.5 and 3.8)
 
 ### [Yaft](apps/yaft)
 
